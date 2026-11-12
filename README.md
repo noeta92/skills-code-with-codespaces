@@ -9,7 +9,7 @@ GitHub Codespaces is a development environment that is hosted in the cloud.
 - **Who this is for**: Developers, DevOps Engineers, Engineering Managers, Product Managers.
 - **What you'll learn**: How to create, configure, and use a codespace.
 - **What you'll build**: A codespace configuration with customizations tailored to a repository.
-- **Prerequisites**: Familiar with [Visual Studio Code Docs](https://code.visualstudio.com/docs).
+- **Prerequisites**: A GitHub account and basic familiarity with editing files. No prior Codespaces experience is needed.
 - **How long**: This exercise can be completed in less than an hour.
 
 In this exercise, you will:
@@ -17,6 +17,17 @@ In this exercise, you will:
 1. Create your first codespace and change some code
 1. Customize your codespace
 1. Practice using the codespace
+
+### Follow the lessons step by step
+
+After you copy the exercise, GitHub opens an issue with the first lesson. Follow its activities in order, and push each completed change to the `main` branch. GitHub checks your work and posts the next lesson in that issue.
+
+1. [Start a codespace and push a change](.github/steps/1-first-codespace.md).
+2. [Configure a custom container image](.github/steps/2-custom-image.md).
+3. [Add development tools, extensions, and a setup script](.github/steps/3-customize-codespace.md).
+4. [Test a fresh codespace](.github/steps/4-use-codespace.md).
+
+If you get stuck, reread the current lesson and check the feedback in the exercise issue before moving on.
 
 ### How to start this exercise
 
